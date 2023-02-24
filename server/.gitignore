@@ -1,0 +1,28 @@
+# Dossiers
+node_modules/
+dist/
+coverage/
+
+# Fichiers
+.env
+.env.*
+log.log
+
+# Fichiers de configuration
+*.log
+*.seed
+*.cache
+*.pid
+*.lock
+*.backup
+*.orig
+*.conf
+
+# Fichiers système
+.DS_Store
+Thumbs.db
+
+# Fichiers de sauvegarde
+*~
+*.bak
+*.swp
